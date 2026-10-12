@@ -26,7 +26,7 @@ Mostly black. Easy on the eyes, the OLED pixels, and my increasingly questionabl
 
 ### Favourites
 
-![Favourites](Favourites/mahabharat-crimson.png)
+![Favorites](Favorites/mahabharat-crimson.png)
 
 The ones I like.
 
